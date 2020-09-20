@@ -1,1 +1,1 @@
-# <span align="center">MININGSERVICES</span>
+# <p align="center">MININGSERVICES</p>
